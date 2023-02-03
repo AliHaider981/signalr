@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ps-globomantics-signalr.props" />
+</Project>
